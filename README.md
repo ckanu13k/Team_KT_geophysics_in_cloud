@@ -6,3 +6,4 @@ Please visit the website for competition details: https://www.linkedin.com/event
 
 This competition require that teams (1-3 people) or individuals develop a novel machine learning seismic inversion algorithm to predict compressional impedance, shear impedance, and density. The big twist for the project is to execute the final solution on the AWS cloud! 
 
+The main project python script is given in Testing_K_main.ipynb (Unfortunately the data is proprietary and is not available here). Also we add a notebook demonstration for loading seismic horizon into AWS.
